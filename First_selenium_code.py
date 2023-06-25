@@ -17,6 +17,3 @@ driver = webdriver.Chrome(service=sev_obj,options=chrome_options)
 # This will open below website.
 driver.get("https://facebook.com/")
 
-# This will open google chrome and opens google.com
-driver.get("https://www.google.com/")
-
